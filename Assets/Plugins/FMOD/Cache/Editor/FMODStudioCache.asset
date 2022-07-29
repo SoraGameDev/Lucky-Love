@@ -1,0 +1,471 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9195264097468174009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/House
+  m_EditorClassIdentifier: 
+  Path: event:/Music/House
+  Guid:
+    Data1: -194632348
+    Data2: 1221187095
+    Data3: -1711863136
+    Data4: 1714395268
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 123689
+--- !u!114 &-8146706679198822972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/GiftPickup
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/GiftPickup
+  Guid:
+    Data1: 1537290518
+    Data2: 1100428275
+    Data3: 1502863538
+    Data4: 185037404
+  Banks:
+  - {fileID: -8087162843241341400}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1550
+--- !u!114 &-8127223887028165463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/MenuSFX/ClickOff
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/MenuSFX/ClickOff
+  Guid:
+    Data1: 1484515504
+    Data2: 1198731416
+    Data3: 1104706690
+    Data4: -973716695
+  Banks:
+  - {fileID: -8087162843241341400}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1500
+--- !u!114 &-8087162843241341400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../Documents/FMOD Studio/Lucky Love!/LuckyLove/Build/Desktop/SFX.bank
+  Name: SFX
+  StudioPath: bank:/SFX
+  lastModified: 637936206214067147
+  FileSizes:
+  - Name: Desktop
+    Value: 93216
+  Exists: 1
+--- !u!114 &-6250265896131855164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Location
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Location
+  Guid:
+    Data1: -2098192869
+    Data2: 1074806049
+    Data3: 1288997277
+    Data4: 1982088965
+  Banks:
+  - {fileID: -8087162843241341400}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 850
+--- !u!114 &-4824503268864410927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Temple
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Temple
+  Guid:
+    Data1: -1543587957
+    Data2: 1203721366
+    Data3: 2004313263
+    Data4: 1712465357
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 126000
+--- !u!114 &-4741172397530744502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Dungeon
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Dungeon
+  Guid:
+    Data1: 2133699581
+    Data2: 1157639713
+    Data3: 1476680869
+    Data4: 1126677314
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 197500
+--- !u!114 &-2931204451165910946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/MainMenu
+  m_EditorClassIdentifier: 
+  Path: event:/Music/MainMenu
+  Guid:
+    Data1: -1383281324
+    Data2: 1332407689
+    Data3: 1385060755
+    Data4: 1140996631
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 144039
+--- !u!114 &-1530101447776257073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Dice
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Dice
+  Guid:
+    Data1: 1087443972
+    Data2: 1211435100
+    Data3: -1476522305
+    Data4: 277636825
+  Banks:
+  - {fileID: -8087162843241341400}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 632
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 4070866452181134177}
+  - {fileID: 240539204890747867}
+  - {fileID: 6837614093728066613}
+  - {fileID: -8087162843241341400}
+  EditorEvents:
+  - {fileID: 2610149066149354302}
+  - {fileID: 5548864455776363778}
+  - {fileID: -2931204451165910946}
+  - {fileID: 2583559462758732336}
+  - {fileID: -4824503268864410927}
+  - {fileID: 5887028757961641582}
+  - {fileID: -4741172397530744502}
+  - {fileID: -1530101447776257073}
+  - {fileID: -8146706679198822972}
+  - {fileID: -6250265896131855164}
+  - {fileID: 5828648258009666202}
+  - {fileID: -8127223887028165463}
+  - {fileID: -9195264097468174009}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 240539204890747867}
+  StringsBanks:
+  - {fileID: 4070866452181134177}
+  cacheTime: 637936206214067147
+  cacheVersion: 10
+--- !u!114 &240539204890747867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../Documents/FMOD Studio/Lucky Love!/LuckyLove/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637936206211590818
+  FileSizes:
+  - Name: Desktop
+    Value: 1340
+  Exists: 1
+--- !u!114 &2583559462758732336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bar
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bar
+  Guid:
+    Data1: -1575169155
+    Data2: 1313109738
+    Data3: -1361639783
+    Data4: 306716969
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 182569
+--- !u!114 &2610149066149354302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Coffee
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Coffee
+  Guid:
+    Data1: 484838662
+    Data2: 1079599770
+    Data3: 412449186
+    Data4: -707681290
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 41848
+--- !u!114 &4070866452181134177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../Documents/FMOD Studio/Lucky Love!/LuckyLove/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637936206211620737
+  FileSizes:
+  - Name: Desktop
+    Value: 1450
+  Exists: 1
+--- !u!114 &5548864455776363778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Tower
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Tower
+  Guid:
+    Data1: 702084386
+    Data2: 1179452427
+    Data3: 119455383
+    Data4: -648993936
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 129168
+--- !u!114 &5828648258009666202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/MenuSFX/ClickOn
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/MenuSFX/ClickOn
+  Guid:
+    Data1: 1997843780
+    Data2: 1120672882
+    Data3: 857755275
+    Data4: -1404091389
+  Banks:
+  - {fileID: -8087162843241341400}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &5887028757961641582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Desert
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Desert
+  Guid:
+    Data1: 927781347
+    Data2: 1106756759
+    Data3: 1344116887
+    Data4: -515977075
+  Banks:
+  - {fileID: 6837614093728066613}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 263688
+--- !u!114 &6837614093728066613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../Documents/FMOD Studio/Lucky Love!/LuckyLove/Build/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 637936206213289243
+  FileSizes:
+  - Name: Desktop
+    Value: 15646400
+  Exists: 1
